@@ -15,5 +15,6 @@ Frontend: React, Redux, CSS, Bootstrap
 Backend: Node.js, Express.js
 Database: MongoDB
 
+Register/Login Page
 ![Screenshot (136)](https://github.com/user-attachments/assets/1b1cdf02-985f-4e65-86aa-a4e88faa9319)
 
