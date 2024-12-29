@@ -1,3 +1,5 @@
+Personal Private File on Working...
+
 ByteBazaar MERN Store
 Welcome to ByteBazaar, a fully functional e-commerce application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project showcases the power of modern web technologies to create a seamless shopping experience.
 
